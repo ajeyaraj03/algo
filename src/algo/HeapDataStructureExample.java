@@ -35,6 +35,7 @@ public class HeapDataStructureExample {
         {
             heapData.insert(i/2);
             
+            
         }
         return heapData;
     }
